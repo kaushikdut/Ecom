@@ -1,0 +1,27 @@
+.card-container{
+    width: 13rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid rgb(204, 201, 201);
+    cursor: pointer;
+}
+
+.image{
+    width: 12rem;
+    height: 12rem;
+    border-radius: 5px;
+}
+.details{
+    text-align: center;
+}
+.card-button{
+    background-color: rgb(131, 225, 225);
+    border: 0;
+    width: 5rem;
+    height: 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
